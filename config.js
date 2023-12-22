@@ -17,14 +17,14 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["94715530122","94717381136"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["94715530122","94717381136"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["94717381136"];
-global.OwnerName = "Panda-bbh❤🌎";
-global.BotName = "PANDA-MD";
+global.Owner = ["94768079451"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["94768079451"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["94768079451"];
+global.OwnerName = "《 𝚮𝚫𝚪𝐒𝚮𝚫 》❤🌎";
+global.BotName = "《 𝚮𝚫𝚪𝐒𝚮𝚫 》-MD";
 global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: Panda-bbh❤🌎";                               //Do not change.
-global.BotSourceCode = "https://github.com/pathum4563/Xlicon-v2"; //Do not change.
+global.author = "By: 《 𝚮𝚫𝚪𝐒𝚮𝚫 》❤🌎";                               //Do not change.
+global.BotSourceCode = "https://github.com/hhsaman/Xlicon-v2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
 
 
@@ -38,7 +38,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Dhaka, Bangladesh";                   
+global.location = "asia, colombo";                   
 global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
